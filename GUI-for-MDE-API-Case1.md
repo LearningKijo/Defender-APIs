@@ -22,7 +22,7 @@ DeviceInfo
 
 ```
 4 - Logs :
-2/7/2023 5:20:22 PM Successfully connected to Tenant ID: 27913275-bca3-4f30-80b8-10d9e631cf40
+2/7/2023 5:20:22 PM Successfully connected to Tenant ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 2/7/2023 5:20:57 PM Executing query: DeviceInfo 
 | where OSPlatform in ("Windows10", "Windows11")
 | where DeviceName startswith "win"
