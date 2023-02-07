@@ -23,7 +23,7 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
 > Figure 1. MDE API GUI 
 <br>
 
-Here is KQL query for targeting devices.
+e.g. : KQL query for targeting devices.
 ```
 DeviceInfo 
 | where OSPlatform in ("Windows10", "Windows11")
