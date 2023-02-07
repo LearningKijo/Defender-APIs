@@ -15,7 +15,7 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
       - Isolate/Release device.
 5. Verify actions result with Logs text box.
 
-## Demmo - Device tag
+## Demo - Device tag
 
 ![image](https://user-images.githubusercontent.com/120234772/217184215-eb1fdfc9-87a4-4b63-8dc9-25f148779691.png)
 
