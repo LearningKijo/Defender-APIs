@@ -23,3 +23,7 @@ Reference / Scenario
 | Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API-DeviceTag.md) |
 | Run antivirus scan | In progress  |
 | Isolate machine | In progress  |
+
+
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
