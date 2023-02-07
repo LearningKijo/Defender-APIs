@@ -14,11 +14,10 @@ Microsoft 365 Defender
 By advanced hunting KQL query, Computer name or CSV file, MDE API GUI kicks API calls to automate incident response actions 
 such as antivirus scan, device isolation and device tag.<br>
 
-Reference : 
+Reference / Scenario 
 1. [Simple GUI for Microsoft Defender for Endpoint API machine actions in PowerShell](https://github.com/microsoft/mde-api-gui)
 2. [Build custom incident response actions with Microsoft 365 Defender APIs](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/build-custom-incident-response-actions-with-microsoft-365/ba-p/3710552)
 
-Scenario :
 | Machine actions  | Link |
 | ------------- | ------------- |
 | Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API-DeviceTag.md) |
