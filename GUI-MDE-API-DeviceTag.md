@@ -72,3 +72,6 @@ win11a
 2/7/2023 5:30:54 PM Applying machine tag: API Machine Name: win10-21h1-asr Status code: 200
 2/7/2023 5:31:09 PM Applying machine tag: API Machine Name: win11a Status code: 200
 ```
+
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
