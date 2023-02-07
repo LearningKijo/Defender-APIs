@@ -46,6 +46,9 @@ DeviceInfo
 
 ![image](https://user-images.githubusercontent.com/120234772/217192593-349c03b5-058f-48f4-b730-fe2160dac64c.png)
 
+#After clicking "Apply Tag", you can confirm the device tag in Microsoft 365 Defender portal.<br>
+#Also, you can confirm whether API successfully done or not in "4 - Logs".
+
 ![image](https://user-images.githubusercontent.com/120234772/217193632-f89c37c1-1303-40c6-bbe9-d238feb26a4d.png)
 
 
