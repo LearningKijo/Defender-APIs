@@ -20,7 +20,7 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
 #To connect with MDE API credentials, put Azure AD Tenant ID, Application ID and Application Secret.  
 
 ![image](https://user-images.githubusercontent.com/120234772/217184215-eb1fdfc9-87a4-4b63-8dc9-25f148779691.png)
-> Figure 1. MDE API GUI 
+> Figure 1. MDE API GUI | Connection
 <br>
 
 Ex) KQL query for targeting devices.
@@ -38,20 +38,26 @@ DeviceInfo
 #After selecting "AH Query" and putting the query, click "Get Devices".<br>
 #Confirm selection in PowerShell forms pop-up.
 ![image](https://user-images.githubusercontent.com/120234772/217187021-aada3fb6-ce23-4050-b00c-18313c7f7f4d.png)
+> Figure 3. "AH Query" in MDE API GUI
+<br>
 
 ![image](https://user-images.githubusercontent.com/120234772/217191791-0085b75b-fc3b-47bf-8612-714249241c2f.png)
+> Figure 4. PowerShell - device selection
 
 #Put a device tag which you want to add to devices and click "Apply Tag".<br>
 #In this case, put "API" as a device tag.
 
 ![image](https://user-images.githubusercontent.com/120234772/217290091-93d5cf73-d63d-4ef9-954e-7d0acd0808a9.png)
-
+> Figure 5. MDE API GUI | Apply Tag
+> 
 #After clicking "Apply Tag", you can confirm the device tag in Microsoft 365 Defender portal.<br>
 #Also, you can confirm whether API has successfully done or not in "4 - Logs".
 
 ![image](https://user-images.githubusercontent.com/120234772/217193632-f89c37c1-1303-40c6-bbe9-d238feb26a4d.png)
-
+> Figure 6. Device page in Microsoft 365 Defender portal
+<br>
 #Example 
+
 ```
 4 - Logs :
 2/7/2023 5:20:22 PM Successfully connected to Tenant ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
