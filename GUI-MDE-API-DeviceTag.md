@@ -16,10 +16,13 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
 5. Verify actions result with Logs text box.
 
 ## Demo - Device tag
-After downloading "mde-api-gui.ps1" in [GitHub](https://github.com/microsoft/mde-api-gui/blob/main/mde-api-gui.ps1), run the script on the local PC.
+After downloading ["mde-api-gui.ps1"](https://github.com/microsoft/mde-api-gui/blob/main/mde-api-gui.ps1), run the script on the local PC. To connect with MDE API credentials, put Azure AD Tenant ID, Application ID and Application Secret.  
 
 ![image](https://user-images.githubusercontent.com/120234772/217184215-eb1fdfc9-87a4-4b63-8dc9-25f148779691.png)
+> Figure 1. MDE API GUI 
+<br>
 
+Here is KQL query for targeting devices.
 ```
 DeviceInfo 
 | where OSPlatform in ("Windows10", "Windows11")
