@@ -30,7 +30,7 @@ DeviceInfo
 | where DeviceName startswith "win"
 | distinct DeviceId, DeviceName
 ```
-#To be sure, run the above query in Microsoft365 Defender, Advanced Hunting.
+#To be sure, run the above query in Microsoft 365 Defender, Advanced Hunting.
 ![image](https://user-images.githubusercontent.com/120234772/217186076-0b8aae08-3342-499f-a8bb-9ce063a7b71a.png)
 
 ![image](https://user-images.githubusercontent.com/120234772/217187021-aada3fb6-ce23-4050-b00c-18313c7f7f4d.png)
