@@ -1,16 +1,14 @@
-## Power of APIs 
+## Power of Defender APIs 
 
 There are a number of APIs in Microsoft Security.
 
 Microsoft Defender for Endpoint 
-- Microsoft Defender for Endpoint APIs
+- [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide)
 
 Microsoft 365 Defender 
-- Incident API
-- Advanced Hunting API
-- Streaming API
-<br>
-
+- [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide)
+- [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide)
+- [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide)
 
 ### GUI for MDE API sample app
 By advanced hunting KQL query, Computer name or CSV file, MDE API GUI kicks API calls to automate incident response actions 
