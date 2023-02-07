@@ -32,10 +32,17 @@ DeviceInfo
 ```
 #To be sure, run the above query in Microsoft 365 Defender, Advanced Hunting.
 ![image](https://user-images.githubusercontent.com/120234772/217186076-0b8aae08-3342-499f-a8bb-9ce063a7b71a.png)
+> Figure 2. the output of the above query
+<br>
 
+#After selecting "AH Query" and putting the query, click "Get Devices".<br>
+#Confirm selection in PowerShell forms pop-up.
 ![image](https://user-images.githubusercontent.com/120234772/217187021-aada3fb6-ce23-4050-b00c-18313c7f7f4d.png)
 
 ![image](https://user-images.githubusercontent.com/120234772/217191791-0085b75b-fc3b-47bf-8612-714249241c2f.png)
+
+#Put a device tag which you want to add to devices and click "Apply Tag".<br>
+#In this case, put "API" as a device tag.
 
 ![image](https://user-images.githubusercontent.com/120234772/217192593-349c03b5-058f-48f4-b730-fe2160dac64c.png)
 
