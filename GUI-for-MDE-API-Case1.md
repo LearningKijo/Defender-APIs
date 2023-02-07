@@ -17,6 +17,9 @@ DeviceInfo
 
 ![image](https://user-images.githubusercontent.com/120234772/217192593-349c03b5-058f-48f4-b730-fe2160dac64c.png)
 
+![image](https://user-images.githubusercontent.com/120234772/217193632-f89c37c1-1303-40c6-bbe9-d238feb26a4d.png)
+
+
 ```
 4 - Logs :
 2/7/2023 5:20:22 PM Successfully connected to Tenant ID: 27913275-bca3-4f30-80b8-10d9e631cf40
