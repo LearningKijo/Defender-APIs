@@ -1,4 +1,6 @@
 # MDE API GUI - Device tag
+The main purpose is to provide the process of adding tags to devices via API call.<br>
+Before starting MDE API GUI, please create [Azure AD application](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide).
 
 ## MDE API GUI - [Usage](https://github.com/microsoft/mde-api-gui#usage)
 1. Connect with AAD Tenant ID, Application Id and Application Secret of the application created earlier.
