@@ -21,6 +21,8 @@ Reference / Scenario
 | Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API-AntivirusScan.md) |
 | Isolate machine | In progress  |
 
+### MSTICPy
+#In Progress
 
 #### Disclaimer 
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
