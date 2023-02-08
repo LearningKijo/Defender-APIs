@@ -2,13 +2,10 @@
 <img src="https://img.shields.io/badge/-API-55C500.svg?logo=&style=popout"> <img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=popout&logo=powershell&logoColor=white" /> <br>
 There are a number of APIs in Microsoft Security.
 
-Microsoft Defender for Endpoint 
-- [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide)
-
-Microsoft 365 Defender 
-- [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide)
-- [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide)
-- [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide)
+| Product  | API |
+| ------------- | ------------- |
+| Microsoft Defender for Endpoint | [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide) |
+| Microsoft 365 Defender | [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
 
 ### GUI for MDE API sample app
 By advanced hunting KQL query, Computer name or CSV file, MDE API GUI kicks API calls to automate incident response actions 
