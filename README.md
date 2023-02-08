@@ -24,7 +24,7 @@ Reference / Scenario
 ## MSTICPy
 #In Progress
 
-## Microsoft Defender for Endpoint & PowerBI
+## PowerBI & MDE
 #In Progress
 
 #### Disclaimer 
