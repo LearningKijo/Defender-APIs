@@ -1,5 +1,5 @@
 ## Power of Defender APIs 
-
+<img src="https://img.shields.io/badge/-API-55C500.svg?logo=&style=popout"> <img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=popout&logo=powershell&logoColor=white" /> <br>
 There are a number of APIs in Microsoft Security.
 
 Microsoft Defender for Endpoint 
