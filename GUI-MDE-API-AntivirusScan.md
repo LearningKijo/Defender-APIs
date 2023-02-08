@@ -25,8 +25,12 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
 
 Ex) KQL query for targeting devices.
 ```
-DeviceInfo 
-| where OSPlatform in ("Windows10", "Windows11")
-| where DeviceName startswith "win"
+let InfectedDevice = AlertEvidence
+| where isnotempty(DeviceId) and isnotempty(DeviceName)
+| project AlertId, DeviceId, DeviceName;
+AlertInfo
+| where ServiceSource == "Microsoft Defender for Endpoint"
+| where Severity in ("Medium", "High")
+| join InfectedDevice on AlertId
 | distinct DeviceId, DeviceName
 ```
