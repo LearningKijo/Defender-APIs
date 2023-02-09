@@ -32,7 +32,8 @@ AlertInfo
 | where ServiceSource == "Microsoft Defender for Endpoint"
 | where Severity in ("Medium", "High")
 | join InfectedDevice on AlertId
-| distinct DeviceId, DeviceName
+| project DeviceId, Lower_DeviceName = toupper(DeviceName)
+| distinct DeviceId, Lower_DeviceName
 ```
 
-![image](https://user-images.githubusercontent.com/120234772/217682938-d980b794-52e8-4ca0-aaa5-c204f93ede3c.png)
+
