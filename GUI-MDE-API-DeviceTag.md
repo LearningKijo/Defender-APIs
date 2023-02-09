@@ -47,9 +47,9 @@ DeviceInfo
 #Put a device tag which you want to add to devices and click "Apply Tag".<br>
 #In this case, put "API" as a device tag.
 
-![image](https://user-images.githubusercontent.com/120234772/217734651-4062f055-0250-457c-a277-34a375c7bb1a.png)
+![image](https://user-images.githubusercontent.com/120234772/217773436-9c9f3273-22df-4bb8-9181-7bf57eb6f3a4.png)
 > Figure 5. MDE API GUI | Apply Tag
-> 
+
 #After clicking "Apply Tag", you can confirm the device tag in Microsoft 365 Defender portal.<br>
 #Also, you can confirm whether API has successfully done or not in "4 - Logs".
 
