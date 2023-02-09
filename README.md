@@ -22,7 +22,8 @@ Reference / Scenario
 | Isolate machine | In progress  |
 
 ## MSTICPy
-#In Progress
+GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
+MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedocs.io/en/latest/GettingStarted.html)
 
 ## PowerBI & MDE
 #In Progress
