@@ -32,6 +32,6 @@ MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedo
 #In Progress
 
 
---- Big thank you for support, Mutsumi N.
+#--- Big thank you for support, Mutsumi N.
 #### Disclaimer 
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
