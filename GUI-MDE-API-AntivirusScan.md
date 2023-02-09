@@ -35,6 +35,25 @@ AlertInfo
 | project DeviceId, name = toupper(DeviceName)
 | distinct DeviceId, name
 ```
+![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217772067-14a05781-e22e-4f0c-be41-68cbf7299fed.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217772426-6ce2e29f-e9d7-45e4-a713-c21a3ba7011d.png)
+
+```
+4 - Logs :
+2/9/2023 6:22:20 PM Successfully connected to Tenant ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Quering 2 machines from CSV file.
+2/9/2023 6:27:01 PM Devices selected count: 2
+WIN10-21H-DETECTION-TEST
+VM1CYBERLAB
+2/9/2023 6:28:28 PM Quick AV Scan on Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
+2/9/2023 6:28:31 PM Quick AV Scan on Machine Name: VM1CYBERLAB Status code: 201
+```
+
 
 #--- Big thank you for support, Mutsumi N.
 #### Disclaimer 
