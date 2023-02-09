@@ -36,4 +36,6 @@ AlertInfo
 | distinct DeviceId, name
 ```
 
-
+#--- Big thank you for support, Mutsumi N.
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
