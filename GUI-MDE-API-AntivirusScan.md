@@ -34,3 +34,5 @@ AlertInfo
 | join InfectedDevice on AlertId
 | distinct DeviceId, DeviceName
 ```
+
+![image](https://user-images.githubusercontent.com/120234772/217682938-d980b794-52e8-4ca0-aaa5-c204f93ede3c.png)
