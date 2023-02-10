@@ -66,7 +66,9 @@ AlertInfo
 
 ![image](https://user-images.githubusercontent.com/120234772/217972455-3202d2a6-ca36-4fc4-ba96-6e2426540de3.png)
 > Figure 8. Microsoft 365 Defender | Action Center
+<br>
 
+#Also, you can confirm whether API has successfully done or not in "4 - Logs".
 ```
 4 - Logs :
 2/10/2023 9:40:10 AM Successfully connected to Tenant ID: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
