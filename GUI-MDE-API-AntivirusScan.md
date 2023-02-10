@@ -46,13 +46,13 @@ AlertInfo
 
 ```
 4 - Logs :
-2/9/2023 6:22:20 PM Successfully connected to Tenant ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2/10/2023 9:11:42 AM Successfully connected to Tenant ID: 27913275-bca3-4f30-80b8-10d9e631cf40
 Quering 2 machines from CSV file.
-2/9/2023 6:27:01 PM Devices selected count: 2
+2/10/2023 9:12:45 AM Devices selected count: 2
 WIN10-21H-DETECTION-TEST
 VM1CYBERLAB
-2/9/2023 6:28:28 PM Quick AV Scan on Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
-2/9/2023 6:28:31 PM Quick AV Scan on Machine Name: VM1CYBERLAB Status code: 201
+2/10/2023 9:12:55 AM Quick AV Scan on Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
+2/10/2023 9:12:58 AM Quick AV Scan on Machine Name: VM1CYBERLAB Status code: 201
 ```
 
 
