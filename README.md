@@ -15,7 +15,7 @@ Reference / Scenario
 1. [Simple GUI for Microsoft Defender for Endpoint API machine actions in PowerShell](https://github.com/microsoft/mde-api-gui)
 2. [Build custom incident response actions with Microsoft 365 Defender APIs](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/build-custom-incident-response-actions-with-microsoft-365/ba-p/3710552)
 
-| Machine actions  | Link |
+| Machine action  | Link |
 | ------------- | ------------- |
 | Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceTag.md) |
 | Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-AntivirusScan.md) |
