@@ -35,7 +35,14 @@ AlertInfo
 | project DeviceId, name = toupper(DeviceName)
 | distinct DeviceId, name
 ```
+
+#In Advanced Hunting, Microsoft 365 Defender, run the query and export it as a CSV file.<br>
+**[Important]** - Column name must be "name" or "Name" 
+
 ![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
+
+#Enter a csv file directory path and click "Get Devices".<br>
+#Confirm selection in PowerShell forms pop-up.
 
 ![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
 
