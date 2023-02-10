@@ -39,24 +39,32 @@ AlertInfo
 **[Important]** - Column name must be "name" or "Name" 
 
 ![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
+> Figure 2. Advanced Hunting | Export
 
 #Enter a csv file directory path and click "Get Devices".<br>
 #Confirm selection in PowerShell forms pop-up.
 
 ![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
+> Figure 3. "CSV" in MDE API GUI
 
 ![image](https://user-images.githubusercontent.com/120234772/217772067-14a05781-e22e-4f0c-be41-68cbf7299fed.png)
+> Figure 4. PowerShell - device selection
 
 #Select "Quick Scan" and click "AV Scan".<br>
 
 ![image](https://user-images.githubusercontent.com/120234772/217774152-435a83ed-80f5-4b2b-af4c-4963f3fdfd05.png)
+> Figure 5. MDE API GUI | AV Scan
+
+#You can confirm the logs in Action Center, Advanced Hunting query and Device Timeline in Microsoft 365 Defender portal.
 
 ![image](https://user-images.githubusercontent.com/120234772/217968585-aba1a8df-ce4f-43dc-ad6b-60c8faa4de66.png)
+> Figure 6. Microsoft 365 Defender | Action Center
 
 ![image](https://user-images.githubusercontent.com/120234772/217969093-341bcf83-8091-4ac7-afd9-be453f96a402.png)
+> Figure 7. Microsoft 365 Defender | Advanced Hunting
 
 ![image](https://user-images.githubusercontent.com/120234772/217969959-1578933e-0a43-495a-b41f-62bc9f3f3c65.png)
-
+> Figure 7. Microsoft 365 Defender | Device Timeline
 
 ```
 4 - Logs :
