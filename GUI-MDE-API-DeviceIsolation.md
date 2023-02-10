@@ -40,3 +40,23 @@ AlertInfo
 ![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
 
 ![image](https://user-images.githubusercontent.com/120234772/217772067-14a05781-e22e-4f0c-be41-68cbf7299fed.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217971516-4406ae6f-0285-4250-b888-a760a92141f3.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217971757-f344710b-30ec-476d-b208-bd12d47e0d11.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217972351-a6390762-9ec6-4b55-8cba-6d6a2cbc08dc.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217972455-3202d2a6-ca36-4fc4-ba96-6e2426540de3.png)
+
+```
+2/10/2023 9:40:10 AM Successfully connected to Tenant ID: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Quering 2 machines from CSV file.
+2/10/2023 9:41:02 AM Devices selected count: 2
+WIN10-21H-DETECTION-TEST
+VM1CYBERLAB
+2/10/2023 9:41:21 AM Selective Isolation on:  Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
+2/10/2023 9:41:25 AM Selective Isolation on:  Machine Name: VM1CYBERLAB Status code: 201
+ Releasing isolation on:  Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
+ Releasing isolation on:  Machine Name: VM1CYBERLAB Status code: 201
+```
