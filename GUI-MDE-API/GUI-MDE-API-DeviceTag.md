@@ -35,7 +35,7 @@ DeviceInfo
 > Figure 2. the output of the above query
 <br>
 
-#After selecting "AH Query" and putting the query, click "Get Devices".<br>
+#After selecting "AH Query" and enter the query, click "Get Devices".<br>
 #Confirm selection in PowerShell forms pop-up.
 ![image](https://user-images.githubusercontent.com/120234772/217187021-aada3fb6-ce23-4050-b00c-18313c7f7f4d.png)
 > Figure 3. "AH Query" in MDE API GUI
