@@ -8,7 +8,7 @@ There are a number of APIs such as Microsoft 365 Defender and Microsoft Defender
 | Microsoft 365 Defender | [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
 
 ## GUI for MDE API sample app
-By advanced hunting KQL query, Computer name or CSV file, MDE API GUI kicks API calls to automate incident response actions 
+By advanced hunting KQL query, Computer name or CSV file, MDE API GUI calls APIs to automate incident response actions 
 such as antivirus scan, device isolation and device tag.<br>
 
 Reference / Scenario 
