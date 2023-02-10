@@ -22,3 +22,21 @@ Before starting MDE API GUI, please create [Azure AD application](https://learn.
 ![image](https://user-images.githubusercontent.com/120234772/217184215-eb1fdfc9-87a4-4b63-8dc9-25f148779691.png)
 > Figure 1. MDE API GUI | Connection
 <br>
+
+Ex) KQL query for targeting devices.
+```
+let InfectedDevice = AlertEvidence
+| where isnotempty(DeviceId) and isnotempty(DeviceName)
+| project AlertId, DeviceId, DeviceName;
+AlertInfo
+| where ServiceSource == "Microsoft Defender for Endpoint"
+| where Severity in ("Medium", "High")
+| join InfectedDevice on AlertId
+| project DeviceId, name = toupper(DeviceName)
+| distinct DeviceId, name
+```
+![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
+
+![image](https://user-images.githubusercontent.com/120234772/217772067-14a05781-e22e-4f0c-be41-68cbf7299fed.png)
