@@ -64,7 +64,7 @@ AlertInfo
 > Figure 7. Microsoft 365 Defender | Advanced Hunting
 
 ![image](https://user-images.githubusercontent.com/120234772/217969959-1578933e-0a43-495a-b41f-62bc9f3f3c65.png)
-> Figure 7. Microsoft 365 Defender | Device Timeline
+> Figure 8. Microsoft 365 Defender | Device Timeline
 
 ```
 4 - Logs :
