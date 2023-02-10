@@ -65,7 +65,9 @@ AlertInfo
 
 ![image](https://user-images.githubusercontent.com/120234772/217969959-1578933e-0a43-495a-b41f-62bc9f3f3c65.png)
 > Figure 8. Microsoft 365 Defender | Device Timeline
+<br>
 
+#Also, you can confirm whether API has successfully done or not in "4 - Logs".
 ```
 4 - Logs :
 2/10/2023 9:11:42 AM Successfully connected to Tenant ID: 27913275-bca3-4f30-80b8-10d9e631cf40
