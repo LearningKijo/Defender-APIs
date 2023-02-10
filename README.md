@@ -17,9 +17,9 @@ Reference / Scenario
 
 | Machine actions  | Link |
 | ------------- | ------------- |
-| Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API-DeviceTag.md) |
-| Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API-AntivirusScan.md) |
-| Isolate machine | In progress  |
+| Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceTag.md) |
+| Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-AntivirusScan.md) |
+| Isolate machine | [GUI-MDE-API-DeviceIsolation.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceIsolation.md) |
 
 ## MSTICPy
 GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
