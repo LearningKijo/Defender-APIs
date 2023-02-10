@@ -40,21 +40,32 @@ AlertInfo
 **[Important]** - Column name must be "name" or "Name" 
 
 ![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
+> Figure 2. Advanced Hunting | Export
 
 #Enter a csv file directory path and click "Get Devices".<br>
 #Confirm selection in PowerShell forms pop-up.
 
 ![image](https://user-images.githubusercontent.com/120234772/217771553-0cdd33fb-893b-4381-994d-aeb12da38de7.png)
+> Figure 3. "CSV" in MDE API GUI
 
 ![image](https://user-images.githubusercontent.com/120234772/217772067-14a05781-e22e-4f0c-be41-68cbf7299fed.png)
+> Figure 4. PowerShell - device selection
+
+#Select "Selective" and click "Isolate Device".
 
 ![image](https://user-images.githubusercontent.com/120234772/217971516-4406ae6f-0285-4250-b888-a760a92141f3.png)
+> Figure 5. MDE API GUI | Isolate Device
 
 ![image](https://user-images.githubusercontent.com/120234772/217971757-f344710b-30ec-476d-b208-bd12d47e0d11.png)
+> Figure 6. Microsoft 365 Defender | Action Center
+
+#When you want to get back the network connection, you can select "Release Device".
 
 ![image](https://user-images.githubusercontent.com/120234772/217972351-a6390762-9ec6-4b55-8cba-6d6a2cbc08dc.png)
+> Figure 7. MDE API GUI | Release Device
 
 ![image](https://user-images.githubusercontent.com/120234772/217972455-3202d2a6-ca36-4fc4-ba96-6e2426540de3.png)
+> Figure 8. Microsoft 365 Defender | Action Center
 
 ```
 4 - Logs :
