@@ -60,3 +60,7 @@ VM1CYBERLAB
  Releasing isolation on:  Machine Name: WIN10-21H-DETECTION-TEST Status code: 201
  Releasing isolation on:  Machine Name: VM1CYBERLAB Status code: 201
 ```
+
+#--- Big thank you for support, Mutsumi N.
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
