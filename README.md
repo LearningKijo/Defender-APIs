@@ -29,7 +29,7 @@ MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedo
 | ------------- | ------------- | ------------- |
 | Querying and Importing Data | Microsoft 365 Defender | In progress |
 | Querying and Importing Data | Microsoft Graph | In progress |
-| Enriching Data | VirusTotal | In progress |
+| Enriching Data | Threat Intel Lookup - VirusTotal | In progress |
 
 ## Power Automate / Azure Logic App
 #In Progress
