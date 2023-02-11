@@ -25,12 +25,6 @@ Reference / Scenario
 GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
 MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedocs.io/en/latest/GettingStarted.html)
 
-| Data | Products | Link |
-| ------------- | ------------- | ------------- |
-| Querying and Importing Data | Microsoft 365 Defender | In progress |
-| Querying and Importing Data | Microsoft Graph | In progress |
-| Enriching Data | Threat Intel Lookup - VirusTotal | In progress |
-
 ## Power Automate / Azure Logic App
 #In Progress
 
