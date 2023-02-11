@@ -22,8 +22,11 @@ Reference / Scenario
 | Isolate machine | [GUI-MDE-API-DeviceIsolation.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceIsolation.md) |
 
 ## MSTICPy
-GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
+MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which provides threat hunting and investigation functionality.
+> GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
 MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedocs.io/en/latest/GettingStarted.html)
+
+Getting Started : [LearningKijo | MSTICPy](https://github.com/LearningKijo/MSTICPy)
 
 ## Power Automate / Azure Logic App
 #In Progress
