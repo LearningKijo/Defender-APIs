@@ -1,3 +1,0 @@
-# MSTICPy 
-
-In progress
