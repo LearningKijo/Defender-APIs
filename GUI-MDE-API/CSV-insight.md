@@ -5,7 +5,7 @@ When you select CSV in the MDE GUI API, you might receive an error like this. As
 > Figure 1. An error in PowerShell 
 
 
-#775 $machine.Name
+[code:775] was written - $machine.Name. Therefore, in CSV file, column name must be "name", "Name" or "NAME".
 
 ![image](https://user-images.githubusercontent.com/120234772/218352863-c763cf3d-abd2-42b9-82c9-9e01e0752b7d.png)
 > Figure 2. function GetDevicesFromCsv, mde-api-gui.ps1 | Visual Studio Code
