@@ -37,7 +37,7 @@ AlertInfo
 ```
 
 #In Advanced Hunting, Microsoft 365 Defender, run the query and export it as a CSV file.<br>
-**[Important]** - Column name must be "name", "Name" or "NAME" <br>
+**[Important]** - Column name must be "name", "Name" or "NAME". <br>
 **[Detail]** - [CSV - GetDevicesFromCsv](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/CSV-insight.md)
 
 ![image](https://user-images.githubusercontent.com/120234772/217770684-7e22b5fb-f891-42df-b5fb-9bf9cbd97167.png)
