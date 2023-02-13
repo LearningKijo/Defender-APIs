@@ -9,3 +9,8 @@ When you select CSV in the MDE GUI API, you might receive an error like this. As
 
 ![image](https://user-images.githubusercontent.com/120234772/218352863-c763cf3d-abd2-42b9-82c9-9e01e0752b7d.png)
 > Figure 2. function GetDevicesFromCsv, mde-api-gui.ps1 | Visual Studio Code
+
+
+#--- Big thank you for support, Mutsumi N.
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
