@@ -36,6 +36,9 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
 ## PowerBI & MDE
 #In Progress
 
+## PowerBI & Azure AD Identity Protection
+#In Progress
+
 
 #--- Big thank you for support, Mutsumi N.
 #### Disclaimer 
