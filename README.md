@@ -4,8 +4,8 @@ There are a number of APIs such as Microsoft 365 Defender and Microsoft Defender
 
 | Product  | API |
 | ------------- | ------------- |
-| Microsoft Defender for Endpoint | [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide) |
-| Microsoft 365 Defender | [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
+| Microsoft Defender for Endpoint | - [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide) |
+| Microsoft 365 Defender | - [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> - [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> - [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
 
 ### Best practices for leveraging Microsoft 365 Defender API
 1. Best practices for leveraging Microsoft 365 Defender API's - [Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
