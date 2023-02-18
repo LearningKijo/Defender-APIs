@@ -27,6 +27,7 @@ such as antivirus scan, device isolation and device tag.<br>
 | Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-AntivirusScan.md) |
 | Isolate machine | [GUI-MDE-API-DeviceIsolation.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceIsolation.md) |
 
+
 ## MSTICPy
 MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which provides threat hunting and investigation functionality.
 
