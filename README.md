@@ -22,7 +22,7 @@ such as antivirus scan, device isolation and device tag.<br>
 > 2. [Build custom incident response actions with Microsoft 365 Defender APIs](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/build-custom-incident-response-actions-with-microsoft-365/ba-p/3710552)
 
 | Machine action  | Link |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Add machine tags | [GUI-MDE-API-DeviceTag.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceTag.md) |
 | Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-AntivirusScan.md) |
 | Isolate machine | [GUI-MDE-API-DeviceIsolation.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceIsolation.md) |
@@ -37,13 +37,16 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
 
 **Getting Started** : [LearningKijo | MSTICPy](https://github.com/LearningKijo/MSTICPy)
 
+## PowerBI 
+#WIP
+
+| Product | Link |
+| :------------- | :------------- |
+| Microsoft Defender for Office 365 | [Microsoft Defender for Office 365 Detection Details Report – Configuration Guide](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/MDO%20Power%20BI%20Dashboard#example-view-of-microsoft-defender-for-office-365-mdo-detection-details-report) |
+| Microsoft Defender for Endpoint | [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/create-custom-reports-using-microsoft-defender-atp-apis-and/ba-p/1007684) |
+
+
 ## Power Automate / Azure Logic App
-#In Progress
-
-## PowerBI & MDE
-#In Progress
-
-## PowerBI & Azure AD Identity Protection
 #In Progress
 
 
