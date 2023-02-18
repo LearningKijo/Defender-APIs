@@ -7,6 +7,12 @@ There are a number of APIs such as Microsoft 365 Defender and Microsoft Defender
 | Microsoft Defender for Endpoint | [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide) |
 | Microsoft 365 Defender | [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
 
+### Best practices for leveraging Microsoft 365 Defender API
+1. Best practices for leveraging Microsoft 365 Defender API's - [Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
+2. Best practices for leveraging Microsoft 365 Defender API's - [Episode Two](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2198820)
+3. Best practices for leveraging Microsoft 365 Defender API's - [Episode Three](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2290463)
+
+
 ## GUI for MDE API sample app
 By advanced hunting KQL query, Computer name or CSV file, MDE API GUI calls APIs to automate incident response actions 
 such as antivirus scan, device isolation and device tag.<br>
