@@ -37,7 +37,7 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
 
 **Getting Started** : [LearningKijo | MSTICPy](https://github.com/LearningKijo/MSTICPy)
 
-## PowerBI 
+## PowerBI & Defenders 
 #WIP
 
 | Product | Link |
