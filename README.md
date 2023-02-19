@@ -1,11 +1,12 @@
 # Microsoft Security & Defender APIs 
 <img src="https://img.shields.io/badge/M365D-APIs-142787.svg?logo=microsoft&style=popout"> <img src="https://img.shields.io/badge/MDE-APIs-142783.svg?logo=microsoft&style=popout"> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=popout&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-FFFFFF.svg?logo=python&style=popout"> <br>
-There are a number of APIs such as Microsoft 365 Defender and Microsoft Defender for Endpoint in Microsoft Security.
+In the beginning, there are a number of APIs such as Microsoft 365 Defender, Microsoft Defender for Endpoint, Microsoft Graph and so on in Microsoft Security.
 
 | Product  | API |
 | ------------- | ------------- |
 | Microsoft Defender for Endpoint | - [Microsoft Defender for Endpoint APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/apis-intro?view=o365-worldwide) |
 | Microsoft 365 Defender | - [Incident APIs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-incident?view=o365-worldwide) <br> - [Advanced Hunting API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-advanced-hunting?view=o365-worldwide) <br> - [Streaming API](https://learn.microsoft.com/en-us/microsoft-365/security/defender/streaming-api?view=o365-worldwide) |
+> Figure 1. Supported APIs in Microsoft 365 Defender & Microsoft Defender for Endpoint
 
 ### Best practices for leveraging Microsoft 365 Defender API
 1. Best practices for leveraging Microsoft 365 Defender API's - [Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
