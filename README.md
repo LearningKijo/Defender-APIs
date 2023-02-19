@@ -44,7 +44,8 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
 | :------------- | :------------- |
 | Microsoft Defender for Office 365 | [Microsoft Defender for Office 365 Detection Details Report – Configuration Guide](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/MDO%20Power%20BI%20Dashboard#example-view-of-microsoft-defender-for-office-365-mdo-detection-details-report) |
 | Microsoft Defender for Endpoint | [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/create-custom-reports-using-microsoft-defender-atp-apis-and/ba-p/1007684) |
-
+| Azure AD Identity Protection | [API’s for #AzureAD Identity Protection are now available in the Microsoft Graph!](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/api-8217-s-for-azuread-identity-protection-are-now-available-in/ba-p/245028) |
+ 
 
 ## Power Automate / Azure Logic App
 #In Progress
