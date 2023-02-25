@@ -36,7 +36,7 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
 > 1. GitHub : [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)<br>
 > 2. MSTIC docs : [MSTIC Jupyter and Python Security Tools](https://msticpy.readthedocs.io/en/latest/GettingStarted.html)
 
-**Getting Started** : [LearningKijo | MSTICPy](https://github.com/LearningKijo/MSTICPy)
+**MSTICPy GitHub repo** : [LearningKijo | MSTICPy](https://github.com/LearningKijo/MSTICPy)
 
 ## PowerBI & Defenders 
 #WIP
