@@ -49,7 +49,7 @@ MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which pro
  
 
 ## Power Automate / Azure Logic App
-#In Progress
+#WIP
 
 
 #--- Big thank you for support, Mutsumi N.
