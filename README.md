@@ -28,10 +28,13 @@ such as antivirus scan, device isolation and device tag.<br>
 | Run antivirus scan | [GUI-MDE-API-AntivirusScan.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-AntivirusScan.md) |
 | Isolate machine | [GUI-MDE-API-DeviceIsolation.md](https://github.com/LearningKijo/Defender-APIs/blob/main/GUI-MDE-API/GUI-MDE-API-DeviceIsolation.md) |
 
-## Power Automate / Azure Logic App
+## Power Automate / Azure Logic App 
 Power Automate and Azure Logic App are cloud-based automation tools from Microsoft that allow users to create and automate workflows, integrating applications and services across platforms and systems, with Power Automate being a low-code option and Azure Logic App offering advanced customization and Azure integration.
 
 **Power Automate folder** : [Power-Automate](https://github.com/LearningKijo/Defender-APIs/tree/main/Power-Automate)
+
+![image](https://user-images.githubusercontent.com/120234772/223157118-f2068eb5-0b10-4031-94a7-d11db752ffb6.png)
+> Power Automate portal
 
 ## MSTICPy
 MSTICPy is a Python library of Cybersecurity tools built by Microsoft, which provides threat hunting and investigation functionality.
