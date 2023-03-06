@@ -7,3 +7,11 @@
 ![image](https://user-images.githubusercontent.com/120234772/223077928-2ef00a71-cada-4908-b9bb-d4cfeb929ec5.png)
 ![image](https://user-images.githubusercontent.com/120234772/223078145-6481907b-cc20-407b-98a2-f08bd98d92e6.png)
 ![image](https://user-images.githubusercontent.com/120234772/223078319-301d7934-db84-411c-bc13-857bba3b06db.png)
+
+## Output
+![image](https://user-images.githubusercontent.com/120234772/223140059-b10be063-40f2-4596-baf8-da98a31906c6.png)
+
+![image](https://user-images.githubusercontent.com/120234772/223141257-688f4552-e252-4abb-9c6f-1b3deff44a9d.png)
+
+#### Disclaimer 
+The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
