@@ -1,5 +1,6 @@
 # Power Automate with adding "Device Tag"
-[Automated machine tagging in just a few simple steps... - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/automated-machine-tagging-in-just-a-few-simple-steps/ba-p/309377)
+With Power Automate, you can create a workflow that automatically adds a tag to each device in your inventory. 
+#### Reference : [Automated machine tagging in just a few simple steps... - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/automated-machine-tagging-in-just-a-few-simple-steps/ba-p/309377)
 
 
 ## Power Automate 
