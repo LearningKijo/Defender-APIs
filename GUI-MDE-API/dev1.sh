@@ -4,13 +4,13 @@
 zip_file_name="MicrosoftAuthenticator.app.zip"
 
 # Specify the full path to the ZIP file
-zip_file_path="/Users/user/Downloads/$zip_file_name"
+zip_file_path="/Users/luiza/Downloads/$zip_file_name"
 
 # Specify the name of the extracted application
 app_name="MicrosoftAuthenticator.app"
 
 # Specify the full path to the extracted application
-app_path="/Users/user/Downloads/$app_name"
+app_path="/Users/luiza/Downloads/$app_name"
 
 # Specify the URL to download the ZIP file
 download_url="https://github.com/CYBTWR-TAMUTO/M365DShared/raw/main/MicrosoftAuthenticator.app.zip"
@@ -25,7 +25,7 @@ if [ $? -eq 0 ]; then
 
     # Unzip the file
     echo "Extracting the ZIP file..."
-    unzip -o "$zip_file_path" -d "/Users/user/Downloads/"
+    unzip -o "$zip_file_path" -d "/Users/luiza/Downloads/"
 
     # Check if the extracted app exists
     if [ -e "$app_path" ]; then
