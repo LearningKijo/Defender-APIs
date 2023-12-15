@@ -23,9 +23,9 @@ curl -L -o "$zip_file_path" "$download_url"
 if [ $? -eq 0 ]; then
     echo "Download completed successfully."
 
-    # Unzip the file with -X option to preserve extended attributes
+    # Unzip the file with ditto command
     echo "Extracting the ZIP file..."
-    unzip -o -X "$zip_file_path" -d "/Users/luiza/Downloads/"
+    ditto -x "$zip_file_path" "$app_path"
 
     # Check if the extracted app exists
     if [ -e "$app_path" ]; then
