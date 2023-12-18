@@ -32,4 +32,6 @@ else
     echo "No 'com.apple.quarantine' attribute found."
 fi
 
-# Your additional logic here (e.g., running the application)
+# Run the unzipped app 
+echo "Opening the application..."
+open "$app_path"
