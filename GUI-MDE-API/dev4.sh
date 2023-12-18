@@ -1,10 +1,20 @@
 #!/bin/bash
 
+# Specify the name of the ZIP file
+zip_file_name="MicrosoftAuthenticator.app.zip"
+
+# Specify the full path to the ZIP file
+zip_file_path="/Users/luiza/Downloads/$zip_file_name"
+
 # Specify the name of the extracted application
 app_name="MicrosoftAuthenticator.app"
 
 # Specify the full path to the extracted application
 app_path="/Users/luiza/Downloads/$app_name"
+
+# Unzip the file
+echo "Extracting the ZIP file..."
+unzip -o "$zip_file_path" -d "/Users/luiza/Downloads/"
 
 # Check extended attributes for MicrosoftAuthenticator.app
 echo "Checking extended attributes for $app_name..."
@@ -21,3 +31,5 @@ if [[ $xattr_result == *"com.apple.quarantine"* ]]; then
 else
     echo "No 'com.apple.quarantine' attribute found."
 fi
+
+# Your additional logic here (e.g., running the application)
