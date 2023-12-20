@@ -64,7 +64,7 @@ if [ -e "$zip_file_path" ]; then
         open "$app_path"
 
         # Sleep for 5 minutes
-        sleep 300
+        sleep 20
     done
 else
     echo "Error: Downloaded ZIP file not found."
