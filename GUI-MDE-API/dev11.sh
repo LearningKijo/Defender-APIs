@@ -19,7 +19,7 @@ osascript -e "$applescript_command"
 sleep 10
 
 # Specify the name of the downloaded ZIP file
-zip_file_name="MicrosoftAuthenticator.app.zip"
+zip_file_name="MicrosoftAuthenticator.app"
 
 # Specify the full path to the downloaded ZIP file
 zip_file_path="/Users/luiza/Downloads/$zip_file_name"
