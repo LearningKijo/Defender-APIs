@@ -22,13 +22,23 @@ cat <<EOF >"$plist_file"
 <dict>
     <key>Label</key>
     <string>com.example.run_app</string>
+    
     <key>ProgramArguments</key>
     <array>
-        <string>/usr/bin/open</string>
+        <!-- Path for app -->
+        <string>/Users/ritumutaka/launch_scripts/hello/hello.sh</string>
         <string>$app_path</string>
     </array>
-    <key>StartInterval</key>
-    <integer>60</integer> <!-- Run every 60 seconds -->
+    
+    <!-- launchd を読み込んだタイミングで実行 -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- LOG -->
+    <key>StandardOutPath</key>
+    <string>/Users/ritumutaka/launch_scripts/hello/std_out.txt</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/ritumutaka/launch_scripts/hello/std_err.txt</string>
 </dict>
 </plist>
 EOF
