@@ -2,25 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <!-- launchd プロセスで一意ならOK -->
-    <key>Label</key>
-    <string>com.example.hello</string>
+        <key>Label</key>
+        <string>Kijo</string>
 
-    <!-- 実行するコマンド -->
-    <key>ProgramArguments</key>
-    <array>
-        <!-- ~が使えないことに注意 -->
-        <string>/Users/luiza/Downloads/hello_shell.sh</string>
-    </array>
-
-    <!-- launchd を読み込んだタイミングで実行 -->
-    <key>RunAtLoad</key>
-    <true/>
-
-    <!-- ログ保存用 -->
-    <key>StandardOutPath</key>
-    <string>/Users/luiza/launch_scripts/hello/std_out.txt</string>
-    <key>StandardErrorPath</key>
-    <string>/Users/luiza/launch_scripts/hello/std_err.txt</string>
+        <key>ProgramArguments</key>
+        <string>test</string>
+        <array>
+               <string>python3</string>
+               <string>/Users/hogehoge/Documents/test.py</string>
+        </array>
+        <key>StartInterval</key>
+        <integer>10</integer>
 </dict>
 </plist>
