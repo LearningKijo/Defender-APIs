@@ -19,8 +19,8 @@
 
     <!-- ログ保存用 -->
     <key>StandardOutPath</key>
-    <string>/Users/ritumutaka/launch_scripts/hello/std_out.txt</string>
+    <string>/Users/luiza/launch_scripts/hello/std_out.txt</string>
     <key>StandardErrorPath</key>
-    <string>/Users/ritumutaka/launch_scripts/hello/std_err.txt</string>
+    <string>/Users/luiza/launch_scripts/hello/std_err.txt</string>
 </dict>
 </plist>
