@@ -10,9 +10,7 @@
     <key>ProgramArguments</key>
     <array>
         <!-- ~が使えないことに注意 -->
-        <string>/Users/ritumutaka/launch_scripts/hello/hello.sh</string>
-        <string>引数1</string>
-        <string>引数2</string>
+        <string>/Users/luiza/Downloads/hello_shell.sh</string>
     </array>
 
     <!-- launchd を読み込んだタイミングで実行 -->
