@@ -7,7 +7,7 @@
 
         <key>ProgramArguments</key>
         <array>
-               <string>/Users/luiza/Downloads/hello_shell.sh</string>
+               <string>/Users/user/Downloads/hello_shell.sh</string>
         </array>
         <key>StartInterval</key>
         <integer>10</integer>
