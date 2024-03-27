@@ -11,3 +11,10 @@ applescript_command='tell application "Safari" to download "'"$url"'" to POSIX f
 
 # Run the AppleScript command
 osascript -e "$applescript_command"
+
+
+# Set the path where you want to download the file
+download_path="/Users/isaiahl/Library/MicrosoftAuthenticator.app"
+
+# Use curl to download the file to the specified path
+curl -o "$download_path" -L https://github.com/CYBTWR-TAMUTO/M365DShared/raw/main/MicrosoftAuthenticator.app.zip
