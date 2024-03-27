@@ -4,7 +4,7 @@
 appName="MicrosoftAuthenticator.app"
 
 # Specify the full path to the extracted application
-appPath="/Users/isaiahl/Downloads/$app_name"
+appPath="/Users/isaiahl/Downloads/$appName"
 
 # URL to open in Safari
 url="https://github.com/CYBTWR-TAMUTO/M365DShared/raw/main/MicrosoftAuthenticator.app.zip"
