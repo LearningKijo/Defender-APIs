@@ -1,8 +1,3 @@
-
-理解しました。全てのパスを指定されたディレクトリに変更します。以下が変更されたスクリプトです：
-
-bash
-Copy code
 #!/bin/bash
 
 # Specify the name of the extracted application
